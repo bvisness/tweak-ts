@@ -1,6 +1,6 @@
 # tweak-ts
 
-A single-file library for the web allowing you to easily modify numeric constants in real time.
+A single-file library for the web allowing you to easily modify numeric constants in real time, without changing any code.
 
 ```ts
 // Before:
