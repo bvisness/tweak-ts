@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "module": "ESNext",
+    "declaration": true,
+    "outDir": "dist",
+    "removeComments": false,
+    "emitDeclarationOnly": false,
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "lib": [
+      "DOM",
+      "ES2017"
+    ],
+    "strict": true
+  },
+  "include": [
+    "tweak.ts"
+  ],
+  "exclude": [
+    "dist"
+  ]
+}

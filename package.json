@@ -1,0 +1,22 @@
+{
+  "name": "tweak-ts",
+  "version": "0.1.0",
+  "description": "Easily tweak numeric values in web apps without modifying the code.",
+  "main": "dist/tweak.js",
+  "types": "dist/tweak.d.ts",
+  "files": [
+    "dist/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bvisness/ts-tweak"
+  },
+  "author": "Ben Visness",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
