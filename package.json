@@ -12,7 +12,7 @@
     "url": "https://github.com/bvisness/ts-tweak"
   },
   "author": "Ben Visness",
-  "license": "MIT",
+  "license": "CC0-1.0",
   "scripts": {
     "build": "tsc"
   },
